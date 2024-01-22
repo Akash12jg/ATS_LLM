@@ -1,0 +1,4 @@
+#ignoring the environment
+.env
+#ignoring the .env file which is contain api key
+env
